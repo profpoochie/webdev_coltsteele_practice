@@ -63,10 +63,7 @@ a[href*="google"] {
     color: magenta;
 }
 
-.post button:hover {
-    background-color: #e63946;
-    color: #f1faee;
-}
+
 
 .post a:hover {
     text-decoration: underline;
@@ -96,3 +93,13 @@ p::selection {
 h2 {
     color: yellow;
 } */
+
+.post button:hover {
+    background-color: #e63946;
+    color: #f1faee;
+}
+
+button:hover {
+    background-color: olive;
+
+}
